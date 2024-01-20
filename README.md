@@ -9,5 +9,5 @@ The Google Data Analytics Capstone project, focused on the Cyclistic Case Study,
 ### Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-## SQL QUERY:
-[Cyclistic Bike SQL query] (https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
+### SQL QUERY:
+[Cyclistic Bike SQL query](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
