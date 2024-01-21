@@ -1,4 +1,4 @@
-# GOOGLE DATA ANALYTICS CAPSTONE PROJECT: CYCLISTIC CASE STUDY
+## GOOGLE DATA ANALYTICS CAPSTONE PROJECT: CYCLISTIC CASE STUDY
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## INRODUCTION
