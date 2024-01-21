@@ -12,7 +12,7 @@ Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html
 [Cyclistic Bike SQL query](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
 
 ### DATA VISUALIZATION
-![Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/assets/111535799/1c05210d-1440-4ef9-b815-b3ff724bea22
+![Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/assets/111535799/1c05210d-1440-4ef9-b815-b3ff724bea22)
 
 ## BACKGROUND
 ### CYCLISTIC
@@ -51,12 +51,14 @@ Reason:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 4.2 million rows, it is essential to use a platform like SQL that supports huge volumes of data.
 
 ## ANALYZE AND SHARE
-SQL Query: [Data Analysis](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
-Data Visualization:[Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/assets/111535799/1c05210d-1440-4ef9-b815-b3ff724bea22)
+### SQL Query: [Data Analysis](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
+### Data Visualization:[Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/assets/111535799/1c05210d-1440-4ef9-b815-b3ff724bea22)
 
-The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
+The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Power BI.  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
 
-First of all, member and casual riders are compared by the type of bikes they are using.  
+First of all, member and casual riders are compared by the type of bikes they are using.
+
+
 
 
