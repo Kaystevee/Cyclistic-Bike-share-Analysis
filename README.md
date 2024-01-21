@@ -12,6 +12,5 @@ Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html
 ### SQL QUERY:
 [Cyclistic Bike SQL query](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/Cyclistic-Bike-share-Analysis%20SQL%20Query.sql)
 
-### Data Visualizations
-![Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/blob/main/CyclisticBikeDashboard.pdf)
-![Data Profession Dashboard](https://github.com/Kaystevee/Data-Professional-Survey/assets/111535799/54e75a95-5f7e-43c9-8b0d-62fd2dfb83a3)
+### Data Visualization
+[Cyclistic Bike Dashboard](https://github.com/Kaystevee/Cyclistic-Bike-share-Analysis/files/13999532/CyclisticBikeDashboard.pdf)
